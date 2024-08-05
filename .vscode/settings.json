@@ -1,0 +1,4 @@
+{
+    "arduino.logLevel": "verbose", //verbose 모든 정보 출력하는 것
+    "arduino.useArduinoCli": true
+}
